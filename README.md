@@ -1,2 +1,2 @@
-# Classical_100_C
-经典100例 C语言实现
+# Classical_100_Cpp
+经典100例 C++语言实现
