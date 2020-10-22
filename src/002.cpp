@@ -15,9 +15,8 @@ using namespace std;
 int main()
 {
     cout << "请输入当月利润:"<< endl;
-    string str;
-    getline(cin,str);
-    double profit = stoi(str);
+    double profit;
+    cin >> profit;
     if(profit<0)
         cout << "error profit must > 0!";
     double bonus,bonus1,bonus2,bonus4,bonus6,bonus10;
